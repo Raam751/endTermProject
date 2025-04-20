@@ -12,9 +12,9 @@ const HeroSection = () => {
       <div className="container grid grid-two-column">
         <div className="section-hero-data">
           <p className="hero-top-data">THIS IS ME</p>
-          <h1 className="hero-heading">{name}</h1>
+          <h1 className="hero-heading">Ram</h1>
           <p className="hero-para">
-            I'm {name}. A Full stack Developer
+            I'm Ram. A Full stack Developer
           </p>
           <Button className="btn hireme-btn">
             <NavLink to="/contact"> hire me </NavLink>
