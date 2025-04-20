@@ -27,8 +27,8 @@ const Footer = () => {
       <footer>
         <div className="container grid grid-four-column">
           <div className="footer-about">
-            <h3>Thapa Technical</h3>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+            <h3>Intro WEB</h3>
+            <p>This is a multipaged website.</p>
           </div>
 
           {/* 2nd column */}
@@ -57,7 +57,7 @@ const Footer = () => {
               </div>
               <div>
                 <a
-                  href="https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA"
+                  href="https://www.youtube.com"
                   target="_blank">
                   <FaYoutube className="icons" />
                 </a>
