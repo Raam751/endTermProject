@@ -1,13 +1,10 @@
 # Real Estate App
 
 ![Real Estate](https://i.ibb.co/jTW4bFC/image.png)
-
 # Real Estate Project
-
 A modern real estate platform built with cutting-edge technologies to provide a seamless experience for property browsing, management, and transactions.
 
 ## 🏠 Features
-
 - Property listings with detailed information
 - Advanced search and filtering capabilities
 - Interactive property viewing
@@ -89,7 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Raam Tichkule
 
 ## 🙏 Acknowledgments
 
